@@ -50,15 +50,5 @@ class _PageHomeState extends State<PageHome> {
           ],
         ),
       ),);
-      // floatingActionButton: FloatingActionButton(
-      //   onPressed: () async {
-      //     final urlCurrent = await controller.currentUrl();
-      //     print('current url $urlCurrent');
-      //     controller
-      //         .loadUrl('https://www.youtube.com/c/EngMohamedElsayed/featured');
-      //   },
-    //     child: const Icon(Icons.video_collection_outlined, size: 35),
-    //   ),
-    // );
   }
 }
